@@ -2,7 +2,6 @@
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/Wh1teJ0ker/GoT0MCP.svg)](https://pkg.go.dev/github.com/Wh1teJ0ker/GoT0MCP)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Wh1teJ0ker/GoT0MCP)](https://goreportcard.com/report/github.com/Wh1teJ0ker/GoT0MCP)
-[![Build Status](https://github.com/Wh1teJ0ker/GoT0MCP/actions/workflows/benchmark.yml/badge.svg)](https://github.com/Wh1teJ0ker/GoT0MCP/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 [English](README_EN.md) | [中文](README.md)
